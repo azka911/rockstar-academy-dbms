@@ -52,8 +52,10 @@ Key business rules enforced at schema level:
 
 | Name | Role |
 |------|------|
-| Muhammad Azka Hasyim | Business Analyst & Database Designer |
-| Lei Wing Teng | Introduction, Business Rules, Challenges |
+| Name | Contributions |
+|------|--------------|
+| Muhammad Azka Hasyim | business rules, stakeholder interview, challenges |
+| Lei Wing Teng |  business rules, stakeholder interview, Database engineer |
 | Wendy Tang Yuh Wei | Entity Relationship Diagram |
 | Cheong Yan Jie | Normalisation |
-| Wan Qistina Damia Binti Wan Mohd Azmi | Business Rules, Challenges |
+| Wan Qistina Damia Binti Wan Mohd Azmi | Challenges, data collection |
